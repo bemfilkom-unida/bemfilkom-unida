@@ -13,7 +13,7 @@ Empowering students through aspirations, innovation, and synergy.
 
 ---
 
-🌐 [bem-filkom-unida.netlify.app](https://www.bemfilkom-unida.my.id/)  
+🌐 [bem-filkom-unida.my.id](https://www.bemfilkom-unida.my.id/)  
 📧 bem.filkom@unida.ac.id  
 📸 [@bemfilkomunida](https://www.instagram.com/bemfilkom.unida/)
 
